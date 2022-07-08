@@ -1,7 +1,7 @@
 body {
-    background-color: #e0e0ba;
-    padding: 10px;
-    padding-left: 100px;
+    background-color: #badce0;
+    padding: 5px;
+    padding-left: 20px;
     padding-top: 20px;
 }
 
@@ -11,10 +11,10 @@ body {
     background-color: #1e62ba;
     color: #81b7f8;
     width: 45%;
-    padding: 10px;
+    padding: 5px;
 }
 
 .img {
-    border: double 10px #9c54c8;
+    border: double 5px #9c54c8;
     padding: 0px;
 }
