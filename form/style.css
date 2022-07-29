@@ -35,7 +35,7 @@ body {
 .links .active a {
     padding-bottom: 5px;
     color: #ffffff;
-    border-bottom: solid 2px #1014ff;
+    border-bottom: solid 2px #58adf8;
 }
 
 form {
@@ -88,7 +88,7 @@ form {
 }
 
 .form-singin:hover {
-    background-color: #0f4fe6;
+    background-color: #59a3f1;
 }
 
 hr {
@@ -156,7 +156,7 @@ input[id=KeepSignedIn] {
 input[type=checkbox]:checked+.checkbox::after {
     content: "yes";
     text-align: left;
-    background-color: rgb(16, 89, 255, 1);
+    background-color: rgb(122, 92, 244);
 }
 
 input[type=checkbox]:checked+.checkbox::before {
