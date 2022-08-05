@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 .block {
@@ -17,7 +17,7 @@ body {
 }
 
 .nav {
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .links li {
@@ -62,7 +62,7 @@ form {
     text-transform: uppercase;
     font-size: 13px;
     padding-left: 15px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     display: block;
     font-weight: 400;
 }
